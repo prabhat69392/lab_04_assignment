@@ -9,7 +9,7 @@ class Flig:
             {"Flight ID": "AI131F49", "From": "HYD", "To": "BOM", "Price": 3499},
         ]
         self.ci_map = {
-            "BLR": "Bengaluru",
+            "BLR": "Ben",
             "BOM": "Mumbai",
             "BBI": "Bhubaneswar",
             "HYD": "Hyderabad",
