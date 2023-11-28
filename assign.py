@@ -52,7 +52,8 @@ if __name__ == "__main__":
             flt.seah(ci)
         elif choi == "3":
             ci1 = input("Enter the first ci code : ")
-            ci2 = input("Enter the second ci code: ")
+            ci2 = input("Enter the seconhshsd ci code: ")
+            
             flt.seahr(ci1, ci2)
 
         
